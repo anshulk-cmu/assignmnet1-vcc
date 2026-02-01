@@ -42,7 +42,7 @@ This project demonstrates the creation and configuration of multiple VMs using V
 ### Hardware Specifications (Per VM)
 - **RAM:** 4096 MB (4 GB)
 - **CPU:** 2 Cores
-- **Storage:** 256 GB (Dynamically Allocated)
+- **Storage:** 64 GB (Dynamically Allocated)
 - **OS:** Ubuntu Server 24.04.3 LTS
 - **Network:** NAT Network (MicroserviceNetwork)
 
@@ -57,6 +57,7 @@ This project demonstrates the creation and configuration of multiple VMs using V
 
 ```bash
 sudo apt update
+sudo apt install uvicorn
 sudo apt install python3 python3-pip -y
 pip3 install fastapi uvicorn requests
 ```
