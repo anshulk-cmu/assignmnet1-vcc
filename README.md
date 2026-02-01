@@ -161,7 +161,7 @@ curl -X POST http://10.0.2.3:8001/ping \
 
 ## 📺 Demo Video
 
-[Link to Video Demonstration](xxxxx)
+[Link to Video Demonstration](https://drive.google.com/file/d/1u4RM-ocTUhr9RO69Bd8Jx_2D6R8z8aOd/view?usp=sharing)
 
 ## 👤 Author
 
